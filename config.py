@@ -1,10 +1,10 @@
-base_url="https://api.kksj.org/v1"
+base_url=""
 
-openai_key="sk-D8HZrFOQGwA0GHn2kdym30T8OBjQBdbIXkZF6nwXMU04KyJp"
+openai_key="sk-xxx"
 
 target_model="gpt-3.5-turbo"
 
-assessmodel="llama3.1:70b"
+assessmodel="GPT-4"
 
 
-assess_base_url="http://10.16.23.106:11434/v1"
+assess_base_url=""
