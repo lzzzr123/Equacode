@@ -5,7 +5,7 @@ from openpyxl import load_workbook
 from openpyxl.styles import Alignment
 import xlsxwriter as xw
 import pandas as pd
-from prompt import equa,origin,equacoder,coder
+from scripts.attack import equa,origin,equacoder,coder
 
 from utils import synthesis_message
 from config import base_url,openai_key,target_model,assessmodel,assess_base_url
