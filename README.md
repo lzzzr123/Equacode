@@ -1,7 +1,7 @@
 <div align="center">
 
-# EquaCode: A Multi-Strategy Jailbreak Approach for Large Language Models  
-### via Equation Solving and Code Completion
+# EquaCode: A Multi-Strategy Jailbreak Approach for Large Language Models via Equation Solving and Code Completion
+### 
 
 **Zhen Liang, Hai Huang, Zhengkui Chen***  
 School of Computer Science and Technology, Zhejiang Sci-Tech University, Hangzhou, China  
