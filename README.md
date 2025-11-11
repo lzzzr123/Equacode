@@ -1,7 +1,12 @@
 # Equacode: A Multi-Strategy Jailbreak Approach for Large Language Models via Equation Solving and Code Completion
+
 ## Update
 - (**2025/11/08**) This paper has been accepted by the AAAI 2026.
-- 
+  
+
+
+
+
 In this paper, we propose Equacode, a novel multi-strategy jailbreak approach for large language models via equation-solving and code completion. This approach transforms malicious intent into a mathematical problem and then requires the LLM to solve it using code, leveraging the complexity of cross-domain tasks to divert the model's focus toward task completion rather than safety constraints. Experimental results show that Equacode achieves an average success rate of 91.19\% on the GPT series and  98.65\% across 3 state-of-the-art LLMs, all with only a single query. Further, ablation experiments demonstrate that EquaCode outperforms either the mathematical equation module or the code module alone. This suggests a strong synergistic effect, thereby demonstrating that multi-strategy approach yields results greater than the sum of its parts.
 
 ![equacode](https://github.com/user-attachments/assets/01b811eb-11fa-48f5-ac6c-c875fb0fe7ca)
