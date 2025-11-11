@@ -1,5 +1,5 @@
 # Equacode: A Multi-Strategy Jailbreak Approach for Large Language Models via Equation Solving and Code Completion
-
+[Zhejiang Sci-Tech University - ZSTU](https://www.zstu.edu.cn/)
 ## Update
 - (**2025/11/08**) This paper has been accepted by the AAAI 2026.
   
