@@ -144,7 +144,6 @@ class targetLLM:
         data.to_excel('ASR_DICT.xlsx', index=False)
 if __name__ == "__main__":
     questions = pd.read_csv('data/Advbench.csv')['goal'].tolist()
-    #you can set text: equation,code,equacode,origin
 
     LLM=targetLLM(questions=questions,target_model=target_model,text="equacode")
     LLM.gernerate()
