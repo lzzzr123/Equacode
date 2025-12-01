@@ -7,7 +7,7 @@
 School of Computer Science and Technology, Zhejiang Sci-Tech University, Hangzhou, China  
 {2024220603045, haihuang1005, chenzk}@zstu.edu.cn  
 
-**Accepted by AAAI 2026**
+
 
 </div>
 
