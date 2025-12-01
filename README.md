@@ -12,7 +12,7 @@ School of Computer Science and Technology, Zhejiang Sci-Tech University, Hangzho
 </div>
 
 ## Update
-- (**2025/11/08**) This paper has been accepted by the AAAI 2026.
+- (**2025/11/08**) This paper has been accepted by the AAAI 2026.🎇🎇🎇
 
 
 
