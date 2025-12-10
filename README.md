@@ -12,9 +12,9 @@ School of Computer Science and Technology, Zhejiang Sci-Tech University, Hangzho
 </div>
 
 ## Update
-- (**2025/11/08**) This paper has been accepted by the AAAI 2026.🎇🎇🎇
-
 - (**2025/12/10**)We further observed that refining the system prompt design leads to additional improvements in the attack success rate. This enhancement is reported in the codebase to support reproducibility and to encourage future research on understanding the role of system-level instructions in jailbreak robustness.
+
+- (**2025/11/08**) This paper has been accepted by the AAAI 2026.🎇🎇🎇
 
 
 
