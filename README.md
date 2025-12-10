@@ -29,7 +29,8 @@ Figure 1: Overview of the EquaCode approach, which consists of two modules: (1) 
 # Main result
 ![image](https://github.com/user-attachments/assets/fed47251-232d-4054-a1f0-ac4a9358208d)
 
-![image](https://github.com/user-attachments/assets/9efe6f44-60e1-444b-969c-3d2763aaca1d)
+<img width="805" height="262" alt="image" src="https://github.com/user-attachments/assets/9faa5daa-0856-43fe-af7b-6177f53fc42a" />
+
 
 
 # Ablation result
